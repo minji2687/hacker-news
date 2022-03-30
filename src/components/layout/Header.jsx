@@ -27,6 +27,7 @@ const Logo = styled.h1`
   font-size: 35.5364px;
   line-height: 138.19%;
   position: absolute;
+  width: fit-content;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -31%);
