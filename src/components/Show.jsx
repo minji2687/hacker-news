@@ -1,3 +1,4 @@
+import React from "react";
 import ShowCard from "./card/ShowCard";
 import MainContentWrap from "./MainContentWrap";
 import MainBanner from "./MainBanner";
